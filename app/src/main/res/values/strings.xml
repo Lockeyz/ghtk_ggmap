@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ghtk_ggmap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="api_key">AIzaSyD4zZvell1TpWVG4bJDXtI89IzxJn1Wb0w</string>
+    <string name="api_key2">AIzaSyBoH_314vc1Ie93whatGGHuhWfUyVodp88</string>
+    <string name="location_permission_denied">Quyen vi tri bi tu choi!</string>
+    <string name="location_permission_granted">Quyen vi tri da duoc cap!</string>
+    <string name="location_access_required">Quyen vi tri duoc yeu cau!</string>
+    <string name="ok">ok</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>
